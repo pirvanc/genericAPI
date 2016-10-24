@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.11.0",
+    "aws-sdk": "^2.6.11",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirvanc/genericAPI.git"
+  },
+  "author": "pirvanc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirvanc/genericAPI/issues"
+  },
+  "homepage": "https://github.com/pirvanc/genericAPI#readme"
+}
